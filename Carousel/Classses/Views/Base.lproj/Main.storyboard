@@ -44,12 +44,12 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="282" height="309"/>
                                                         <autoresizingMask key="autoresizingMask"/>
                                                         <subviews>
-                                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bodyline" translatesAutoresizingMaskIntoConstraints="NO" id="37j-G2-dN5">
+                                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="riho" translatesAutoresizingMaskIntoConstraints="NO" id="37j-G2-dN5">
                                                                 <rect key="frame" x="0.0" y="0.0" width="282" height="309"/>
                                                             </imageView>
-                                                            <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="pIh-VS-FkP">
+                                                            <visualEffectView hidden="YES" opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="pIh-VS-FkP">
                                                                 <rect key="frame" x="0.0" y="229" width="282" height="80"/>
-                                                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="fgH-8F-zx4">
+                                                                <view key="contentView" hidden="YES" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="fgH-8F-zx4">
                                                                     <rect key="frame" x="0.0" y="0.0" width="282" height="80"/>
                                                                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                                     <subviews>
@@ -126,6 +126,6 @@
     </scenes>
     <resources>
         <image name="blue" width="750" height="1334"/>
-        <image name="bodyline" width="1192" height="1190"/>
+        <image name="riho" width="270" height="270"/>
     </resources>
 </document>

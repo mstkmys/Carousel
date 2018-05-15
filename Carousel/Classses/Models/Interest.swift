@@ -25,7 +25,7 @@ struct Interest {
             Interest(title: "新木優子", numberOfMembers: 1, numberOfPosts: 1, featuredImage: #imageLiteral(resourceName: "yuko")),
             Interest(title: "芳根京子", numberOfMembers: 1, numberOfPosts: 1, featuredImage: #imageLiteral(resourceName: "kyoko")),
             Interest(title: "堀未央奈", numberOfMembers: 1, numberOfPosts: 1, featuredImage: #imageLiteral(resourceName: "miona")),
-            Interest(title: "優希美青", numberOfMembers: 1, numberOfPosts: 1, featuredImage: #imageLiteral(resourceName: "miona")),
+            Interest(title: "優希美青", numberOfMembers: 1, numberOfPosts: 1, featuredImage: #imageLiteral(resourceName: "miao")),
             Interest(title: "与田祐希", numberOfMembers: 1, numberOfPosts: 1, featuredImage: #imageLiteral(resourceName: "yuki"))
         ]
     }
